@@ -1,0 +1,7 @@
+.box{
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid red;
+    width: 410px;
+    box-shadow: inset 5px 5px;
+}
