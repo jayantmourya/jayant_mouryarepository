@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF7F4;
+}
+
+.top{
+    display: flex;
+    flex-direction: column;
+}
+
+.parenttestimonial{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.hrleft{
+    position: relative;
+    top: 11px;
+    left: 120px;
+    width: 45px;
+    height: 3px;
+    border: none;
+    background-color: #FF5300;
+
+}
+
+.hrright{
+    position: relative;
+    top: -35px;
+    left: 289px;
+    width: 45px;
+    height: 2px;
+    border: none;
+    background-color: #FF5300;
+
+}
+
+.headtestimonail{
+    color: #FF5300;
+    font-size: 16px;
+}
+
+.headclient{
+    color: black;
+    font-size: 39px;
+}
+
+
+.middlepart{
+    display: flex;
+    margin-top: 65px;
+    gap: 30px;
+}
+
+.leftbox{
+    width: 370px;
+    text-align: center;
+    padding: 25px;
+    /* border: 2px solid; */
+    background-color: #FFFFFF;
+}
+
+.leftbottom{
+    margin-top: 20px;
+    
+}
+.imgphilip{
+    position: relative;
+    top:25px;
+    right: 135px;
+
+}
+
+.paraphilip{
+    position: relative;
+    bottom:25px;
+    right: 39px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FF5300;
+    font-size: 20px;
+}
+
+.parait{
+    position: relative;
+    bottom:25px;
+    right: 48px;
+    color: #7B7B7B;
+    font-size: 12.5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.quoteleft{
+    position: relative;
+    bottom: 74px;
+    left: 105px;
+}
+
+.midbox{
+    width: 370px;
+    text-align: center;
+    padding: 25px;
+    /* border: 2px solid; */
+    background-color: #FFFFFF;
+}
+
+.rightbox{
+    width: 370px;
+    text-align: center;
+    padding: 25px;
+    /* border: 2px solid; */
+    background-color: #FFFFFF;
+}
+
+
+.midbottom{
+    margin-top: 25px;
+}
+
+.imglincoln{
+    position: relative;
+    top:25px;
+    right: 135px;
+}
+
+.paralincoln{
+    position: relative;
+    bottom:25px;
+    right: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FF5300;
+    font-size: 20px;
+}
+
+.parait2{
+    position: relative;
+    bottom:25px;
+    right: 47px;
+    color: #7B7B7B;
+    font-size: 12.5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.quotemid{
+    position: relative;
+    bottom: 74px;
+    left: 129px;
+}
+
+.rightbottom{
+    margin-top: 25px;
+}
+
+.imgcraige{
+    position: relative;
+    top:25px;
+    right: 135px;
+}
+
+.paracraige{
+    position: relative;
+    bottom:25px;
+    right: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FF5300;
+    font-size: 20px;
+}
+
+.parait3{
+    position: relative;
+    bottom:25px;
+    right: 41px;
+    color: #7B7B7B;
+    font-size: 12.5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.quoteright{
+    position: relative;
+    bottom: 74px;
+    left: 129px;
+}
+
+
+.leftarrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightarrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
